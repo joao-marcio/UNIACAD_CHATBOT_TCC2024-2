@@ -1,0 +1,46 @@
+2º Período
+Disciplinas;Sala;Prédio
+Contabilidade e Custos;Auditório;Auditório Núcleo Acadêmico
+Desenvolvimento de Web Sites;LAB 06;UNIACADEMIA
+Orientação a Objetos - B;LAB 09;UNIACADEMIA
+Análise de Sistemas - B ;LAB 09;UNIACADEMIA
+Legislação Aplicada e Ética;EAD;CANVAS
+Arquitetura e Organização de Computadores;Auditório;Auditório Núcleo Acadêmico
+Design Thinking;Anfiteatro;UNIACADEMIA
+Projeto Integrador II;EAD;CANVAS
+Prática Extensionista II;EAD;CANVAS
+4º Período
+Disciplinas;Sala;Prédio
+Modelagem de Processos;Auditório;Auditório Núcleo Acadêmico
+Economia e Finanças;EAD;CANVAS
+Redes de Computadores;333;ACADEMIA
+Interface Homem-Máquina;333;ACADEMIA
+Comércio Eletrônico;LAB 05;ACADEMIA
+Estatística;330;ACADEMIA
+Processo de Desenvolvimento de Software;333;ACADEMIA
+Projeto Integrador IV;EAD;CANVAS
+Práticas Extensionistas IV;EAD;CANVAS
+6º Período
+Teste de Software;LAB 06;ACADEMIA
+Metodologia Científica;EAD;CANVAS
+Desenvolvimento Móvel;LAB 09;ACADEMIA
+Empreendedorismo;Auditório;Auditório Núcleo Acadêmico
+Governança de Tecnologia da Informação;LAB 04;ACADEMIA
+Psicologia Aplicada e Direitos Humanos (Eletiva II);324;ACADEMIA
+Projeto Integrador VI;EAD;CANVAS
+Práticas Extensionistas VI;EAD;CANVAS
+Estágio Obrigatório;EAD;CANVAS
+7º Período
+Disciplinas;Sala;Prédio
+Trabalho de Conclusão de Curso I;EAD;CANVAS
+8º Período
+Disciplinas;Sala;Prédio
+Plano de Negócios;242;ACADEMIA
+Ciência de Dados;LAB 08;ACADEMIA
+Avaliação de Sistemas de Informação (Eletiva IV);LAB 04;ACADEMIA
+Ecologia e Preservação do Ambiente;EAD;CANVAS
+Desenvolvimento de Jogos Digitais;LAB 08;ACADEMIA
+Segurança da Informação;LAB 08;ACADEMIA
+Gestão de Projetos;324;ACADEMIA
+Projeto Integrador VIII;EAD;CANVAS
+Práticas Extensionistas VIII;EAD;CANVAS
